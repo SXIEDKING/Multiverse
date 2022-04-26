@@ -41,6 +41,6 @@ const travellersCabinBag = new Bag(9);
 const travellersHullBag = new Bag(23);
 traveller.addBag(travellersCabinBag);
 traveller.addBag(travellersHullBag);
-
+s
 
     
